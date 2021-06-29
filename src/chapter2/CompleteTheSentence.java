@@ -22,7 +22,6 @@ public class CompleteTheSentence {
         scanner.close();
 
         // Display sentence
-
         System.out.println( "On a " + adjective +" " + season + " day, I drink a minimum of " + number + " cups of coffee." );
     }
 }
